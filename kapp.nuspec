@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>kapp</id>
+    <title>Carvel kapp</title>
+    <version>0.34.0</version>
+    <authors>Carvel</authors>
+    <owners>Adrien SALES</owners>
+    <summary>kapp is a simple deployment tool focused on the concept of
+    "Kubernetes application" — a set of resources with the same label.</summary>
+    <description>kapp (pronounced: kap) CLI encourages Kubernetes users to manage resources
+    in bulk by working with "Kubernetes applications" (sets of resources with the same label).
+    It focuses on resource diffing, labeling, deployment and deletion. Unlike tools like Helm,
+    kapp considers YAML templating and management of packages outside of its scope, though
+    it works great with tools that generate Kubernetes configuration.</description>
+    <projectUrl>https://get-kapp.io/</projectUrl>
+    <tags>yaml template k8s k14s kubernetes kubernetes-deployment continuous-delivery gitops carvel devops cli go deployment foss vmware tanzu tkg docker helm</tags>
+    <licenseUrl>https://github.com/vmware-tanzu/carvel-kapp/blob/develop/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://avatars3.githubusercontent.com/u/48573588?s=200&amp;v=4</iconUrl>
+    <packageSourceUrl>https://github.com/adriens/chocolatey-kapp</packageSourceUrl>
+    <releaseNotes>https://github.com/k14s/kapp/releases/tag/v0.34.0</releaseNotes>
+    <docsUrl>https://github.com/vmware-tanzu/carvel-kapp/tree/develop/docs</docsUrl>
+    <bugTrackerUrl>https://github.com/vmware-tanzu/carvel-kapp/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/vmware-tanzu/carvel-kapp/</projectSourceUrl>
+    <mailingListUrl>https://github.com/k14s/kapp/issues</mailingListUrl>
+    
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
