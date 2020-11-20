@@ -31,7 +31,7 @@ choco install -fdv kapp.nuspec
 
 :ballot_box_with_check: TODO section
 
-[Not yet implemented CI](https://github.com/adriens/chocolatey-ytt/issues/2) so:
+[Not yet implemented CI](https://github.com/adriens/chocolatey-kapp/issues/2) so:
 
 ## Release check list
 
