@@ -20,4 +20,3 @@ $package = Split-Path $tools
 $kapp_exe = Join-Path $package '/tools/kapp'
 
 Install-BinFile -Name 'kapp' -Path $kapp_exe
-Update-SessionEnvironment
