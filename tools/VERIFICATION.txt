@@ -3,12 +3,12 @@ VERIFICATION
 Verification is intended to assist the Chocolatey moderators and community
 in verifying that this package's contents are trustworthy.
 
-Binary file <kapp> comes from the official release page :
+Binary file <kapp.exe> comes from the official release page :
 
-<https://github.com/vmware-tanzu/carvel-kapp/releases/tag/v0.34.0>
+<https://github.com/vmware-tanzu/carvel-kapp/releases/tag/v0.35.0>
 
 The only included binary is :
 
-df66e0345cbd4fc861fdcbc6cda22f3562680e9749fcdb56b6c0603366e45f08  ./kapp-windows-amd64.exe
+1d83f6abeda6c4ff4c397e31d1eda5b1371d0d4bb9abe6ee671893eb8a6e6f90    ./kapp-windows-amd64.exe
 
-but renamed from <kapp-windows-amd64.exe> to <kapp>.
+but renamed from <kapp-windows-amd64.exe> to <kapp.exe>.

@@ -3,7 +3,7 @@
   <metadata>
     <id>kapp</id>
     <title>Carvel kapp</title>
-    <version>0.34.0</version>
+    <version>0.35.0</version>
     <authors>Carvel</authors>
     <owners>Adrien SALES</owners>
     <summary>kapp is a simple deployment tool focused on the concept of
@@ -19,11 +19,11 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://avatars3.githubusercontent.com/u/48573588?s=200&amp;v=4</iconUrl>
     <packageSourceUrl>https://github.com/adriens/chocolatey-kapp</packageSourceUrl>
-    <releaseNotes>https://github.com/k14s/kapp/releases/tag/v0.34.0</releaseNotes>
-    <docsUrl>https://github.com/vmware-tanzu/carvel-kapp/tree/develop/docs</docsUrl>
+    <releaseNotes>https://github.com/vmware-tanzu/carvel-kapp/releases/tag/v0.35.0</releaseNotes>
+    <docsUrl>https://carvel.dev/kapp/docs/latest/</docsUrl>
     <bugTrackerUrl>https://github.com/vmware-tanzu/carvel-kapp/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/vmware-tanzu/carvel-kapp/</projectSourceUrl>
-    <mailingListUrl>https://github.com/k14s/kapp/issues</mailingListUrl>
+    <mailingListUrl>https://github.com/vmware-tanzu/carvel-kapp/issues</mailingListUrl>
     
   </metadata>
   <files>

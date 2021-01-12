@@ -23,7 +23,7 @@ To install `kapp` and get an optimal experience on windows, just:
 
 ## Build locally
 
-[Chocolatey package](https://chocolatey.org/packages/kapp/) to install [Carvel/kapp](https://github.com/k14s/ytt) (currenlty [under moderation process](https://github.com/adriens/chocolatey-kapp/issues/1))
+
 
 ```
 git clone https://github.com/adriens/chocolatey-kapp.git
@@ -42,5 +42,5 @@ choco install -fdv kapp.nuspec
 ## Deploy to central
 
 ```
-choco push kapp.0.34.0.nupkg --source https://push.chocolatey.org/ -apikey *******
+choco push kapp.0.35.0.nupkg --source https://push.chocolatey.org/ -apikey *******
 ```
