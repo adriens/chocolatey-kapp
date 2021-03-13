@@ -42,5 +42,5 @@ choco install -fdv kapp.nuspec
 ## Deploy to central
 
 ```
-choco push kapp.0.35.0.nupkg --source https://push.chocolatey.org/ -apikey *******
+choco push kapp.0.36.0.nupkg --source https://push.chocolatey.org/ -apikey *******
 ```
