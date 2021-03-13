@@ -5,10 +5,10 @@ in verifying that this package's contents are trustworthy.
 
 Binary file <kapp.exe> comes from the official release page :
 
-<https://github.com/vmware-tanzu/carvel-kapp/releases/tag/v0.35.0>
+<https://github.com/vmware-tanzu/carvel-kapp/releases/tag/v0.36.0>
 
 The only included binary is :
 
-1d83f6abeda6c4ff4c397e31d1eda5b1371d0d4bb9abe6ee671893eb8a6e6f90    ./kapp-windows-amd64.exe
+7478692ad70de93ac060c928d9be7de68f8aa8d28440f67fd6ca73e7078fdbf6    ./kapp-windows-amd64.exe
 
 but renamed from <kapp-windows-amd64.exe> to <kapp.exe>.
