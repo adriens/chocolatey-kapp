@@ -17,7 +17,7 @@
     <tags>yaml template k8s k14s kubernetes kubernetes-deployment continuous-delivery gitops carvel devops cli go deployment foss vmware tanzu tkg docker helm</tags>
     <licenseUrl>https://github.com/vmware-tanzu/carvel-kapp/blob/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://avatars3.githubusercontent.com/u/48573588?s=200&amp;v=4</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/adriens/chocolatey-kapp/main/img/CarvelLogo.png</iconUrl>
     <packageSourceUrl>https://github.com/adriens/chocolatey-kapp</packageSourceUrl>
     <releaseNotes>https://github.com/vmware-tanzu/carvel-kapp/releases/tag/v0.36.0</releaseNotes>
     <docsUrl>https://carvel.dev/kapp/docs/latest/</docsUrl>
