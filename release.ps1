@@ -1,0 +1,1 @@
+﻿choco push kapp.0.39.0.nupkg -s https://chocolatey.org/ -apikey $env:CHOCO_APIKEY

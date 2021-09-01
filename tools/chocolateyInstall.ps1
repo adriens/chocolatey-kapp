@@ -1,7 +1,7 @@
 $toolsDir    = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
 $ErrorActionPreference = 'Stop';
 
-
+Copy-Item "$toolsDir\kapp-windows-amd64.exe" -Destination "$toolsDir\kapp.exe"
 
 $packageArgs = @{
   packageName   = 'kapp'

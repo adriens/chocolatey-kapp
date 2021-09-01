@@ -39,8 +39,12 @@ choco install -fdv kapp.nuspec
 ## Release check list
 
 
-## Deploy to central
+# For developers only section
+
+## Build locally
 
 ```
-choco push kapp.0.37.0.nupkg --source https://push.chocolatey.org/ -apikey *******
+git clone https://github.com/adriens/chocolatey-kapp.git
+cd chocolatey-kapp
+ant make
 ```
