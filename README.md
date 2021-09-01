@@ -1,6 +1,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rastadidi?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/carvel_dev?label=Follow%20Carvel.dev&style=social)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/9hmyla1rxrn1ruq0?svg=true)](https://ci.appveyor.com/project/adriens/chocolatey-kapp)
 [![Chocolatey](https://img.shields.io/chocolatey/v/kapp.svg)](https://chocolatey.org/packages/kapp)
 [![Chocolatey](https://img.shields.io/chocolatey/dt/kapp.svg)](https://chocolatey.org/packages/kapp)
 
