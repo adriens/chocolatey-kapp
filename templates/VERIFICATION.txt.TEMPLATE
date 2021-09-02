@@ -5,8 +5,8 @@ in verifying that this package's contents are trustworthy.
 
 Binary file <kapp.exe> comes from the official release page :
 
-<https://github.com/vmware-tanzu/carvel-kapp/releases/tag/v@YTT_VERSION@>
+<https://github.com/vmware-tanzu/carvel-kapp/releases/tag/v@KAPP_VERSION@>
 
 The only included binary is :
 
-@YTT_SHA-256@    ./kapp-windows-amd64.exe
+@KAPP_SHA-256@    ./kapp-windows-amd64.exe
